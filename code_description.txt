@@ -1,0 +1,3 @@
+I developed an advanced elevator simulation app using JavaScript, HTML, and CSS to showcase dynamic functionality. The system efficiently manages 5 elevators across 10 floors, where each floor features a call button. Upon a button press, the closest elevator is dynamically calculated and dispatched to the requested floor. 
+
+This project highlights my expertise in JavaScript for solving real-world problems with optimized algorithms.
